@@ -1,6 +1,8 @@
 Geonode_Custom
 ========================
 
+Ceci est le fichier de documentationde GeoNode !!!
+
 You should write some docs, it's good for the soul.
 
 Installation
