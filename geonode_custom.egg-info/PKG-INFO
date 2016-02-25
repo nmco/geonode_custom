@@ -1,0 +1,30 @@
+Metadata-Version: 1.1
+Name: geonode-custom
+Version: 0.2
+Summary: geonode_custom, based on GeoNode
+Home-page: https://github.com/geonode_custom/geonode_custom
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: BSD
+Description: Geonode_Custom
+        ========================
+        
+        You should write some docs, it's good for the soul.
+        
+        Installation
+        ------------
+        
+        Create a new template based on the geonode example project.::
+            
+            $ django-admin.py startproject my_geonode --template=https://github.com/GeoNode/geonode-project/archive/master.zip -epy,rst,yml
+            $ sudo pip install -e my_geonode
+        
+        .. note:: You should NOT use the name geonode for your project as it will conflict with the default geonode package name.
+        
+        Usage
+        -----
+        
+        
+Keywords: geonode_custom geonode django
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
